@@ -16,7 +16,19 @@ CRESidekick is an AI-first CRM that replaces fragmented, overpriced CRE tools wi
 
 ## Documentation
 
-- [Competitive Analysis](docs/cre-crm-competitive-analysis.md)
+- [Product Plan](docs/product-plan.md) — Full product plan with features, pricing, tech stack, and roadmap
+- [Competitive Analysis](docs/cre-crm-competitive-analysis.md) — Analysis of 15+ CRE CRM platforms
+
+## Product Suite
+
+CRESidekick is part of the AgentDashboards platform:
+
+| Product | Purpose |
+|---------|---------|
+| **CRESidekick** | AI-native CRE CRM |
+| **AgentDashboards** | Business intelligence & analytics |
+| **PipelinePulse** | Lead lifecycle management |
+| **ClosedOut** | Transaction management |
 
 ## Status
 
