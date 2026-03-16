@@ -8,7 +8,7 @@
 
 | Product | Purpose | Port |
 |---------|---------|------|
-| **CRESidekick** | AI-native CRE CRM | `localhost:5000` |
+| **CRESidekick** | AI-native CRE CRM | `localhost:9500` |
 | AgentDashboards | Business intelligence | `localhost:2000` |
 | ClosedOut | Transaction management | `localhost:3000` |
 | PipelinePulse | Lead lifecycle | `localhost:4000` |
